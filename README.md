@@ -41,8 +41,7 @@ Termux-setup-storage
 2. Шаг установите ngrok.
 
 
-git clone 
-https://github.com/tchelospy/termux-ngrok.git
+git clone https://github.com/tchelospy/termux-ngrok.git
 
 ls
 
