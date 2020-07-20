@@ -104,6 +104,9 @@ bash zphisher.sh
 
 # Установите Metasploit
 
+4. Шаг установим Metasploit
+
+
 pkg install metasploit
 
 И ждем 10-15 минут 
@@ -116,7 +119,7 @@ msfconsole и ждем гдето 15-25 секунд
 # Установите Tool-X
 
 
-4. Шаг и последний установим Tool-X
+5. Шаг и последний установим Tool-X
 
 
 pkg update -y
